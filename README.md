@@ -6,7 +6,8 @@ Our project is about creating a pet inventory management system. Our system enab
 ## Objectives
 The abjectives of this project is to implement about what we learn in System Analysis and Development, and trying to develop a system that can helps our clients to solve their problems.
 ## Progress
-For now, we have done the phase one of the proposal project Which includes:
+For now, we have done the phase one and phase 2 of the proposal project:
+### Phase 1
  - introduction
  - Problem Statement
  - Objectives
@@ -16,6 +17,13 @@ For now, we have done the phase one of the proposal project Which includes:
  - WBS 
  - Pert Chart 
  - Gantt Chart
+### Phase 2
+ - Overview
+ - Problem Statement
+ - Proposed Solution
+ - Information Gathering
+ - Requirement Analysis
+ - Summary
 
 
 ## This project is collaborating with
